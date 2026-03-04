@@ -4,7 +4,7 @@
 
 Visit the Gitee release page, manually download the package for your server architecture, and place it in `/tmp`:
 
-> 🔗 https://gitee.com/fit2cloud-feizhiyun/1panel-migrator/releases/
+> 🔗 https://github.com/1Panel-dev/1panel-migrator/releases
 
 Each release provides packages for the following architectures (example file names):
 
